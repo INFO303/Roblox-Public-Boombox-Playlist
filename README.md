@@ -81,5 +81,5 @@ This project is free to use and modify. Credit is appreciated but not required.
 
 ---
 
-Made by [YourGitHubNameHere] | Inspired by Roblox music and Backrooms aesthetics.
+Made by [INFO303] | Inspired by Roblox music and Backrooms aesthetics.
 
